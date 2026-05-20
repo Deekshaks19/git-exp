@@ -2,4 +2,8 @@
 master branch change
 =======
 Feature branch change
+<<<<<<< HEAD
 >>>>>>> feature-login
+=======
+Rebase example
+>>>>>>> 2ff7b3b (Added rebase example)
