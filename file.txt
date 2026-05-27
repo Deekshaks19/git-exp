@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 master branch change
-=======
 Feature branch change
-<<<<<<< HEAD
->>>>>>> feature-login
-=======
-Rebase example
->>>>>>> 2ff7b3b (Added rebase example)
 Updated from GitHub in master branch
+Second update from GitHub
+Authentication feature added
