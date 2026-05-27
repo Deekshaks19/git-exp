@@ -1,9 +1,9 @@
 master branch change
 Feature branch change
-<<<<<<< HEAD
+ HEAD
 Updated from GitHub in master branch
-=======
+
 Updated from GitHub in master branch
 Second update from GitHub
->>>>>>> 88df71dfeb0ae9ed59d03d9f4702bfa066b0ace7
+ 88df71dfeb0ae9ed59d03d9f4702bfa066b0ace7
 Authentication feature added
