@@ -7,3 +7,4 @@ Feature branch change
 =======
 Rebase example
 >>>>>>> 2ff7b3b (Added rebase example)
+Updated from GitHub in master branch
